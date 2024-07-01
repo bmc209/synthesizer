@@ -1,1 +1,1 @@
-# synthesizer-joy
+# synthesizer
